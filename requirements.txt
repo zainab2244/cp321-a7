@@ -1,0 +1,6 @@
+gunicorn
+dash
+pandas
+numpy
+plotly
+pycountry
